@@ -37,6 +37,8 @@ gem 'bcrypt', '~> 3.1.7'
 gem 'xmlrpc'
 
 gem 'gravatar-ultimate'
+# Need to use bundle exec after bundle install Annotate: 'bundle exec annotate'
+gem 'annotate'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
