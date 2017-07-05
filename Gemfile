@@ -40,6 +40,8 @@ gem 'gravatar-ultimate'
 # Need to use bundle exec after bundle install Annotate: 'bundle exec annotate'
 gem 'annotate'
 
+gem "paperclip", "~> 5.0.0"
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
